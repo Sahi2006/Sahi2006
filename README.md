@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Git
+- 🌱 I’m currently learning Git
 
 <!--
 **Sahi2006/Sahi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
